@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ayesha Eiman</h1>
 <h3 align="center">React Native Developer</h3>
 
-- 🔭 I’m currently working on **Health App**
-- 🌱 I’m currently learning **NodeJs and ExpressJs**
-- ⚡ Fun fact **I still feel uncertain about my coding abilities.**
+- 🔭 I’m currently working on : **Health App**
+- 🌱 I’m currently learning : **NodeJs and ExpressJs**
+- ⚡ Fun fact : **I still feel uncertain about my coding abilities.**
 
 <div> <a href="https://github.com/ayesha-eiman-bukhari" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
